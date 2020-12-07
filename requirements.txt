@@ -1,0 +1,4 @@
+PyMySQL==0.10.1
+urllib3==1.26.2
+DBUtils==1.2
+
